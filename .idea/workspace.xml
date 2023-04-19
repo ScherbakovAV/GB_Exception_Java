@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e0a8804-8ebc-4827-854c-652e71d7f09d" name="Changes" comment="Added code from Lecture 3">
-      <change afterPath="$PROJECT_DIR$/src/Seminar1/Ex0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar1/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar1/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar1/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar1/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar1/Ex6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar1/Ex7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar1/Ex8.java" afterDir="false" />
+    <list default="true" id="3e0a8804-8ebc-4827-854c-652e71d7f09d" name="Changes" comment="Added code from Seminar 1">
+      <change afterPath="$PROJECT_DIR$/src/Homework1/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework1/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework1/Ex4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681580773079</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added code from Seminar 1">
+      <created>1681924436533</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681924436533</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +117,7 @@
     <MESSAGE value="Lecture 1" />
     <MESSAGE value="Added code from Lecture 2" />
     <MESSAGE value="Added code from Lecture 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added code from Lecture 3" />
+    <MESSAGE value="Added code from Seminar 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code from Seminar 1" />
   </component>
 </project>
