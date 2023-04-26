@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e0a8804-8ebc-4827-854c-652e71d7f09d" name="Changes" comment="Added Homework 2">
-      <change afterPath="$PROJECT_DIR$/src/Seminar3/Ex0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar3/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar3/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar3/Ex2_Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar3/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar3/Ex3_DivByZeroException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar3/Ex3_absentFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar3/Ex3_emptyArrayException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar3/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar3/Ex4_MyArrayDataException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar3/Ex4_MyArraySizeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar3/test" afterDir="false" />
+    <list default="true" id="3e0a8804-8ebc-4827-854c-652e71d7f09d" name="Changes" comment="Added Seminar 3">
+      <change afterPath="$PROJECT_DIR$/src/Homework3/DateFieldException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework3/IO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework3/NoFieldException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework3/Task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework3/Verifications.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682170927917</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added Seminar 3">
+      <created>1682362447577</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682362447577</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +153,7 @@
     <MESSAGE value="Added Homework 1" />
     <MESSAGE value="Added Seminar 2" />
     <MESSAGE value="Added Homework 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Homework 2" />
+    <MESSAGE value="Added Seminar 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Seminar 3" />
   </component>
 </project>
