@@ -45,13 +45,13 @@ public class IO {
     public static void arrayListToFile(List<String> arr){ // запись в файл данных листа
         try (FileWriter write = new FileWriter(arr.get(0) + ".txt", true)) {
             for (int i = 0; i < arr.size(); i++) {
-                if (i != arr.size() - 1) write.append(arr.get(i)).append(" ");
-                else write.append(arr.get(i)).append("\n");
+                if (i == arr.size() - 1) write.append("<" + arr.get(i) + ">\n");
+                else write.append("<" + arr.get(i) + ">");
             }
             System.out.println("Пользователь успешно добавлен");
             System.out.println("Создан файл \"" + arr.get(0) + ".txt\"");
         } catch (IOException e) {
-            throw new RuntimeException("Ошибка записи файла...");
+            throw new RuntimeException(e);
         }
     }
 }
